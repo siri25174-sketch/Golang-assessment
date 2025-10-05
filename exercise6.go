@@ -1,5 +1,5 @@
 //Real-Time Scenario
-//Did not push yet
+//Create a small inventory management system for a store using slices and maps in Go.
 
 package main
 
