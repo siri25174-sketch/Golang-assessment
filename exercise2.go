@@ -25,7 +25,7 @@ func main() {
 	fmt.Println("Sum of numbers:", sum)
 
 	//max and min values
-	max := s[0] //for max value
+	max := s[0] //for max value //Here this is the index value
 	min := s[0] //for min value
 	for _, value := range s {
 		if value > max {
