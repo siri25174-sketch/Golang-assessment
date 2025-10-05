@@ -4,6 +4,7 @@
 //Append a new fruit "kiwi"
 
 //From class 18 slices and functions
+//Slice Operations
 
 package main
 
