@@ -28,8 +28,8 @@ func main() {
 
 	storestock[productName] += quantity
 	fmt.Println("Updated stock after addition:")
-	for _, product := range products {
-		fmt.Printf("%s : %d\n", product, storestock[product])
+	for _, product := range products { //I dont need the index so keeping it blank
+		fmt.Printf("%s : %d\n", product, storestock[product]) //Here as i dont want to specify the index i wanted to print the product name and its quantity
 	}
 
 	//d.Remove stock for a product
