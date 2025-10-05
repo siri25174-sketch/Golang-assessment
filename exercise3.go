@@ -50,5 +50,5 @@ func main() {
 
 		}
 	}
-	fmt.Println("Count of the elemnts greater than average:", count)
+	fmt.Println("Count of the elements greater than average:", count)
 }
