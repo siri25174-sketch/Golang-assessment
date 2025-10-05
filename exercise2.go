@@ -36,6 +36,6 @@ func main() {
 		}
 	}
 
-	fmt.Println("Maximum value:", max)
-	fmt.Println("Minimum value:", min)
+	fmt.Printf("Maximum value: %d\n", max)
+	fmt.Printf("Minimum value: %d\n", min)
 }

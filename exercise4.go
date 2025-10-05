@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("Appended a new fruit:", s)
 
 	//b.Remove "orange"
-	s1 := []string{"apple", "banana", "orange", "grapes", "mango"}
+	s1 := []string{"apple", "banana", "orange", "grapes", "mango", "kiwi"}
 	i := 2
 	s1 = append(s1[:i], s1[i+1:]...) //here we are removing the orange from the string
 	//:i is bascially representing the values before the index value 2
